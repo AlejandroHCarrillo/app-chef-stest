@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "olS1476d92l1aJXqi4B0TKMvRGu6APssrl4OzoX1V7Y=",
+  "Source": "AppChefApi",
+  "BasePath": "_content/AppChefApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
